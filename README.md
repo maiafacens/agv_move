@@ -17,7 +17,7 @@ Para fazer uso desse repositório deve criar primeiramente uma workspace ROS (co
 - Fazer o clone desse repositório.
 
   ```bash
-  git clone https://github.com/luschardt/agv_move
+  git clone https://github.com/maiafacens/agv_move
   ```
 
 
